@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
+//niarj iit b cse
+// main function starting
 int main()
 {
 	int a,b,c;
